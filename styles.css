@@ -1,0 +1,20 @@
+.title{
+    text-align:center;
+    color: brown;
+    background-color: blue;
+
+}
+
+.form>input{
+    margin: 10px; 
+}
+.body{
+   
+    background-image: url(./assets/bg.jpg) ;
+    background-repeat: repeat;
+   
+}
+.paragraph{
+    color: white;
+    text-align:center;
+}
